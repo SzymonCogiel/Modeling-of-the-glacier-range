@@ -1,5 +1,7 @@
 # Modeling of the glacier range
 
+Project for classes in Data Modeling in Earth Sciences.
+
 The aim of the project was to create a mathematical model of the glacier's behavior on
 space of time. The analysis was carried out on the basis of the data from the years 1978-2008.
 
